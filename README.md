@@ -1,6 +1,6 @@
 # Donadesk
 
-Flutter based donation web app .
+Flutter based donation web app.
 
 ## Getting Started
 
