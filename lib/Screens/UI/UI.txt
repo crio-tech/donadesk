@@ -1,0 +1,15 @@
+ - This file contains the UI component that are visible to users.
+ - AppBar {
+     Logo
+     [
+         Home,
+         Login,
+         Donate,
+         About,
+         profile
+     ]
+ }
+ - Homepage {
+     {
+         3 screens... scrolling
+     }

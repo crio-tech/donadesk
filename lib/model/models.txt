@@ -1,0 +1,1 @@
+ - This file contains the data models (like Class to map with Json data retrived for api calls)
